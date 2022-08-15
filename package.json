@@ -1,0 +1,21 @@
+{
+    "name": "vs-hefe",
+    "displayName": "vs-hefe",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vs-hefe",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-hefe-color-theme.json"
+            }
+        ]
+    }
+}
